@@ -1,1 +1,2 @@
 This content should be committed first
+First new line

@@ -1,1 +1,2 @@
 A git repository needs an itital commit to work
+Second new line
